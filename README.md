@@ -1,7 +1,16 @@
-# hello-world
-test github repository
+<!DOCTYPE HTML>
+<html>
 
-Hi Humans
+<body>
 
-Stjo300 here, i like Node.js and coffeescript (thats what i'm made of)
-I've had tacos on the moon and find them far superior to earth tacos.
+  <p>Before the script...</p>
+
+  <script>
+    alert( 'Hello, world!' );
+  </script>
+
+  <p>...After the script.</p>
+
+</body>
+
+</html>
